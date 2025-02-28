@@ -6,7 +6,13 @@ __pycache__/
 # C extensions
 *.so
 venv/
+data/
+.data/
+data/*
 .venv/
+log/
+log
+
 venv
 # Distribution / packaging
 .Python
